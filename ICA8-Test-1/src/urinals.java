@@ -114,12 +114,12 @@ public class urinals {
         	return -1;
         }
     }
-	public static boolean validateString(String inpStr)
+	public static boolean validateString(String istr)
 	{
 		int c=0;
-		for(int m=0;m<inpStr.length();m++)
+		for(int m=0;m<istr.length();m++)
 		{
-			if(inpStr.charAt(m)=='1'  || inpStr.charAt(m)== '0') {
+			if(istr.charAt(m)=='1'  || istr.charAt(m)== '0') {
 				c=0;
 			}
 			else {
