@@ -37,9 +37,10 @@ class urinalsTest {
 		
 		@Test
 		void test5() {
-			urinals u = new urinals();
+			urinals bs = new urinals();
 			String s = "10001";
-			assertEquals(2,u.countUrinals(s));
+			assertEquals(1,bs.countUrinals(s));
 			System.out.println("====== PREM RAJ LOKAIAHGARI == TEST FIVE EXECUTED=======");  
 		}
+		
 }
