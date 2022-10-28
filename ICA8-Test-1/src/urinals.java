@@ -130,6 +130,7 @@ public class urinals {
 			return true;
 		}
 		else {
+			System.out.println("Entered String is Invalid");
 			return false;
 		}
 	}
