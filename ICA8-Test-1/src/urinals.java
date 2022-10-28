@@ -1,4 +1,4 @@
-//Author - Prem Raj Lokaiahgri
+//author - Prem Raj Lokaiahgari
 
 import java.lang.*;
 import java.util.*;

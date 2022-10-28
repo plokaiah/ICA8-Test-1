@@ -8,9 +8,9 @@ class urinalsTest {
 		@Test
 		void test3() {
 			urinals bs = new urinals();
-			String s = "abcd";
+			String s = "1001";
 			assertEquals(true,bs.validateString(s));
-			System.out.println("====== PREM RAJ LOKAIAHGARI == TEST ONE EXECUTED =======");  
+			System.out.println("====== PREM RAJ LOKAIAHGARI == TEST ONE EXECUTED AND PASSED =======");  
 		}
 	
 
